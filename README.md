@@ -1,6 +1,6 @@
 # Welcome to Rachel's portfolio!
 
-Welcome to my portfolio repository! Below are the key projects that I have worked on.
+Welcome to my portfolio repository! Below are the key projects that I have worked on in the data field. This repository is regularly updated as I continue progressing through my projects.
 
 ## Data Analysis Projects
 
