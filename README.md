@@ -8,6 +8,10 @@ Welcome to my portfolio repository! Below are the key projects that I have worke
 |-------------------|--------------------------------------------------------|-----------------------------------------|----------------------------------------------------------|
 | Bank of America Consumer Complaints Analysis | Identify complaint patterns and trends across financial products, issues and demographics | Python (Pandas, Matplotlib), PostgreSQL, Docker | Provided actionable insights into improving customer experience |
 
+## Dashboards/Visualizations
+
+
+
 ## Data Science Projects
 
 | Project Name      | Business Use Case                                      | Tools Used                              | Key Achievement                                          |
@@ -16,3 +20,6 @@ Welcome to my portfolio repository! Below are the key projects that I have worke
 
 ## Data Engineer Projects
 
+
+
+## GenAI Projects
