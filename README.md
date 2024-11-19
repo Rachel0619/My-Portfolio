@@ -2,24 +2,41 @@
 
 Welcome to my portfolio repository! Below are the key projects that I have worked on in the data field. This repository is regularly updated as I continue progressing through my projects.
 
-## Data Analysis Projects
-
-| Project Name      | Business Use Case                                      | Tools Used                              | Key Achievement                                          |
-|-------------------|--------------------------------------------------------|-----------------------------------------|----------------------------------------------------------|
-| Bank of America Consumer Complaints Analysis | Identify complaint patterns and trends across financial products, issues and demographics | Python (Pandas, Matplotlib), PostgreSQL, Docker | Provided actionable insights into improving customer experience |
-
 ## Dashboards/Visualizations
 
+### Tableau
+
+| #  | Project Name   | Project Highlight                                                                                  | Tools               |
+|----|----------------|----------------------------------------------------------------------------------------------------|--------------------------|
+| 1  | [Which countries work less but earn more?](https://public.tableau.com/app/profile/rachel.li3670/viz/Whichcountriesworklessbutearnmore/Dashboard)            | Analyzed global productivity by comparing GDP per capita adjusted for hours worked  | Tableau Desktop |
+| 2  | [Rise and Rise of LLMs](https://public.tableau.com/app/profile/rachel.li3670/viz/RiseandRiseofLLMs/Dashboard1)  | Examined the growth and trends in large language model (LLM) development, highlighting key players, release timelines, and advancements in model sizes.    | Tableau Desktop            |
+| 3  | [History of global natural gas production](https://public.tableau.com/app/profile/rachel.li3670/viz/Historyofglobalnaturalgasproduction/NaturalGas) | Visualized the history and trends in global natural gas production from 1900 to 2022, highlighting cumulative production by country and identifying the top producers over time.    | Tableau Desktop            |
 
 
-## Data Science Projects
+### Dash
 
-| Project Name      | Business Use Case                                      | Tools Used                              | Key Achievement                                          |
-|-------------------|--------------------------------------------------------|-----------------------------------------|----------------------------------------------------------|
-| Loan-Approval-Prediction | predict whether an applicant is approved for a loan | Python (Pandas, Matplotlib, Scikit Learn) | Achieved AUC-ROC score of 0.95 |
-
-## Data Engineer Projects
+| #  | Project Name   | Project Highlight                                                                                  | Tools               |
+|----|----------------|----------------------------------------------------------------------------------------------------|--------------------------|
+| 1  | [Hotspot - Visualization of Global Warming and CO2 Emission](https://github.com/Rachel0619/Hotspot/tree/main) | Interactive visualization of the dynamics between CO2 emissions, global temperature changes, and economic activity indicators (e.g GDP per capita) over the years.    | Python, Dash            |
 
 
+## Data Analysis
 
-## GenAI Projects
+| #  | Project Name                                                                 | Business Use Case         | Project Highlight                                     | Tools                              |
+|----|-----------------------------------------------------------------------------|---------------------------|------------------------------------------------------|-----------------------------------------|
+| 1  | [Bank of America Consumer Complaints Analysis](https://github.com/Rachel0619/Bank-of-America-Consumer-Complaints-Analysis) | Customer Service, Customer Loyalty | Explored both the distribution and trends of complaints by product/sub-product, issue/sub-issue, and demographic group, providing insights into areas where Bank of America may need to improve customer service, operational efficiency, and product offerings | Python (Pandas, Matplotlib), Jupyter Notebook, PostgreSQL, Docker, Tableau |
+
+
+## Data Engineering
+
+| #  | Project Name                                                                                       | Business Use Case       | Project Highlight                                 | Tools                                     |
+|----|---------------------------------------------------------------------------------------------------|-------------------------|--------------------------------------------------|-----------------------------------------------|
+| 1  | [ETL pipeline with Mage and GCP](https://github.com/Rachel0619/Bank-of-America-Consumer-Complaints-Analysis/tree/main/docker_mage_gcp) | Cloud ETL Pipeline      | Developed a seamless workflow orchestration      | Python (pandas, requests), Mage, GCP (Google Cloud Storage, BigQuery) |
+
+
+## Data Science
+
+| #  | Project Name                 | Business Use Case                          | Models                                 | Tools                                      | Key Achievement                                                             |
+|----|------------------------------|--------------------------------------------|------------------------------------------|----------------------------------------------|------------------------------------------------------------------------------|
+| 1  | [Loan Approval Prediction](https://github.com/Rachel0619/Loan-Approval-Prediction) | Credit Analysis | XGBoost | Python (Numpy, Pandas, Matplotlib, Scikit Learn, XGBoost, Optuna) | 1. Achieved an average AUC-ROC score of 0.9323 on validation sets. <br> 2. Introduced two business-related features that boosted model performance. |
+| 2  | [Bank Term Deposit Subscription Predictor](https://github.com/Rachel0619/Bank-Marketing-Project) | Customer Acquisition, Customer Loyalty | Logistic Regression, SVC | Python (Numpy, Pandas, Matplotlib, Scikit Learn, XGBoost), Docker, Makefile | Recall: 0.875 |
