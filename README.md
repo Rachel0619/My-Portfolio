@@ -1,8 +1,8 @@
-# Welcome to Rachel's portfolio!
+# 👋 Welcome to Rachel's portfolio!
 
 Welcome to my portfolio repository! Below are the key projects that I have worked on in the data field. This repository is regularly updated as I continue progressing through my projects.
 
-## Dashboards/Visualizations
+## 📊 Dashboards/Visualizations
 
 ### Tableau
 
@@ -20,21 +20,21 @@ Welcome to my portfolio repository! Below are the key projects that I have worke
 | 1  | [Hotspot - Visualization of Global Warming and CO2 Emission](https://github.com/Rachel0619/Hotspot/tree/main) | Interactive visualization of the dynamics between CO2 emissions, global temperature changes, and economic activity indicators (e.g GDP per capita) over the years.    | Python, Dash            |
 
 
-## Data Analysis
+## 📈 Data Analysis
 
 | #  | Project Name                                                                 | Business Use Case         | Project Highlight                                     | Tools                              |
 |----|-----------------------------------------------------------------------------|---------------------------|------------------------------------------------------|-----------------------------------------|
 | 1  | [Bank of America Consumer Complaints Analysis](https://github.com/Rachel0619/Bank-of-America-Consumer-Complaints-Analysis) | Customer Service, Customer Loyalty | Explored both the distribution and trends of complaints by product/sub-product, issue/sub-issue, and demographic group, providing insights into areas where Bank of America may need to improve customer service, operational efficiency, and product offerings | Python (Pandas, Matplotlib), Jupyter Notebook, PostgreSQL, Docker, Tableau |
 
 
-## Data Engineering
+## 🛠️ Data Engineering
 
 | #  | Project Name                                                                                       | Business Use Case       | Project Highlight                                 | Tools                                     |
 |----|---------------------------------------------------------------------------------------------------|-------------------------|--------------------------------------------------|-----------------------------------------------|
-| 1  | [ETL pipeline with Mage and GCP](https://github.com/Rachel0619/Bank-of-America-Consumer-Complaints-Analysis/tree/main/docker_mage_gcp) | Cloud ETL Pipeline      | Developed a seamless workflow orchestration      | Python (pandas, requests), Mage, GCP (Google Cloud Storage, BigQuery) |
+| 1  | [ETL pipeline with Mage and GCP](https://github.com/Rachel0619/Bank-of-America-Consumer-Complaints-Analysis/tree/main/docker_mage_gcp) | Cloud ETL Pipeline      | Seamless workflow orchestration      | Python (pandas, requests), Mage, GCP (Google Cloud Storage, BigQuery) |
 
 
-## Data Science
+## 🤖 Data Science
 
 | #  | Project Name                 | Business Use Case                          | Models                                 | Tools                                      | Key Achievement                                                             |
 |----|------------------------------|--------------------------------------------|------------------------------------------|----------------------------------------------|------------------------------------------------------------------------------|
