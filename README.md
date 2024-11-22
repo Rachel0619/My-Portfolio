@@ -4,6 +4,12 @@ Welcome to my portfolio repository! Below are the key projects that I have worke
 
 ## 📊 Dashboards/Visualizations
 
+### Excel
+
+| #  | Project Name   | Project Highlight                                                                                  | Tools               |
+|----|----------------|----------------------------------------------------------------------------------------------------|--------------------------|
+| 1  | [Stock Portfolio Tracker Dashboard](https://github.com/Rachel0619/Financial-Modeling-Portfolio)  | A visual summary of portfolio facts, including current holdings, share weight breakdowns and top winners/losers. The dashboard can be auto updated by clicking "refresh all" under the data tab.    | EXCEL, Google Sheets            |
+
 ### Tableau
 
 | #  | Project Name   | Project Highlight                                                                                  | Tools               |
