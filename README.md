@@ -14,9 +14,10 @@ Welcome to my portfolio repository! Below are the key projects that I have worke
 
 | #  | Project Name   | Project Highlight                                                                                  | Tools               |
 |----|----------------|----------------------------------------------------------------------------------------------------|--------------------------|
-| 1  | [Which countries work less but earn more?](https://public.tableau.com/app/profile/rachel.li3670/viz/Whichcountriesworklessbutearnmore/Dashboard)            | Analyzed global productivity by comparing GDP per capita adjusted for hours worked  | Tableau Desktop |
-| 2  | [Rise and Rise of LLMs](https://public.tableau.com/app/profile/rachel.li3670/viz/RiseandRiseofLLMs/Dashboard1)  | Examined the growth and trends in large language model (LLM) development, highlighting key players, release timelines, and advancements in model sizes.    | Tableau Desktop            |
-| 3  | [History of global natural gas production](https://public.tableau.com/app/profile/rachel.li3670/viz/Historyofglobalnaturalgasproduction/NaturalGas) | Visualized the history and trends in global natural gas production from 1900 to 2022, highlighting cumulative production by country and identifying the top producers over time.    | Tableau Desktop            |
+| 1  | [Customer engagement & User engagement analysis for 365 Data Science platform](https://public.tableau.com/app/profile/rachel.li3670/viz/UserEngagement_17332634033310/Overview)            | Created sophisticated queries in MySQL to answer business questions, designed various types of charts in Tableau (bar charts, combo charts, funnel charts, and line charts), builded a cohort analysis table, retention curve, and Tableau dashboards  | MySQL, Tableau Desktop |
+| 2  | [Which countries work less but earn more?](https://public.tableau.com/app/profile/rachel.li3670/viz/Whichcountriesworklessbutearnmore/Dashboard)            | Analyzed global productivity by comparing GDP per capita adjusted for hours worked  | Tableau Desktop |
+| 3  | [Rise and Rise of LLMs](https://public.tableau.com/app/profile/rachel.li3670/viz/RiseandRiseofLLMs/Dashboard1)  | Examined the growth and trends in large language model (LLM) development, highlighting key players, release timelines, and advancements in model sizes.    | Tableau Desktop            |
+| 4  | [History of global natural gas production](https://public.tableau.com/app/profile/rachel.li3670/viz/Historyofglobalnaturalgasproduction/NaturalGas) | Visualized the history and trends in global natural gas production from 1900 to 2022, highlighting cumulative production by country and identifying the top producers over time.    | Tableau Desktop            |
 
 
 ### Dash
